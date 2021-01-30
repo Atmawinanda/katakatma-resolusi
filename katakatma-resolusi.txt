@@ -2,3 +2,5 @@ Katakatma Resolusi
 - Menentukan menu
 - Menetapkan resep untuk setiap menu
 - Menetapkan HPP untuk setiap menu
+- Menentukan harga jual
+- Menyusun konten

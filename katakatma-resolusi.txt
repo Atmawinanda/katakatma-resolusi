@@ -3,4 +3,4 @@ Katakatma Resolusi
 - Menetapkan resep untuk setiap menu
 - Menetapkan HPP untuk setiap menu
 - Menentukan harga jual
-- Menyusun konten
+- Membuat foto katalog produk
